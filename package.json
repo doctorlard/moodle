@@ -43,6 +43,7 @@
     "stylelint": "13.3.3",
     "stylelint-checkstyle-formatter": "0.1.2",
     "stylelint-csstree-validator": "1.8.0",
+    "stylelint-declaration-block-no-ignored-properties": "^2.4.0",
     "xmldom": "^0.6.0",
     "xpath": "0.0.27"
   },

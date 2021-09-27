@@ -19176,7 +19176,6 @@ body.behat-site .custom-switch {
 
 body.behat-site .custom-control-input {
   position: static;
-  z-index: 0;
   opacity: 1; }
 
 body.behat-site .custom-control-label::before, body.behat-site .custom-control-label::after {
